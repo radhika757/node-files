@@ -1,3 +1,6 @@
+const name = require("./Module");
+
+console.log(name);
 const amount = 12;
 
 if (amount < 10) {
